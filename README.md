@@ -4,6 +4,18 @@ Welcome! Your goal is to finalize a modular Task Management API. We have provide
 
 **Estimated Time:** 40 minutes.
 
+## Your Task
+
+You are responsible for implementing the logic required for Requirements 2 and 3.
+
+You should ensure your implementation follows the established architectural pattern (Route -> Service -> Model) and provides consistent JSON error responses when a request cannot be processed.
+
+Feel free to:
+1. Install new dependencies to the project
+2. Use Documentation
+3. Use AI agents
+4. Improve the code
+
 ## Requirements
 
 ### 1. GET `/tasks` (Already Implemented)
@@ -34,17 +46,5 @@ We have provided a suite of tests to validate the GET endpoint. You can use thes
 To run the tests:
 
 `pytest`
-
-## Your Task
-
-You are responsible for implementing the logic required for Requirements 2 and 3.
-
-You should ensure your implementation follows the established architectural pattern (Route -> Service -> Model) and provides consistent JSON error responses when a request cannot be processed.
-
-Feel free to:
-1. Install new dependencies to the project
-2. Use Documentation
-3. Use AI agents
-4. Improve the code
 
 ### Good luck! And have fun :)
